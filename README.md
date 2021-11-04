@@ -4,7 +4,7 @@ Hướng dẫn đưa website của bạn lên Github.io
 - git checkout -b develop
 - git status
 - git add .
-= git remote orgin
+- git remote orgin
 - git remote -v
 - git commit -m "mô tả"
 - git push origin develop
